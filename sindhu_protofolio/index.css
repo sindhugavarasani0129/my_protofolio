@@ -1,0 +1,82 @@
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+   
+}
+.first {
+  height: 100vh;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 5px solid;
+  background-color: skyblue;
+ 
+}
+#buttons{
+    text-decoration-color: black;
+    padding: 22px 24px;
+    border-radius: 5px;
+    border: none;
+    justify-content: space-evenly;
+    size: 100px;
+    
+}
+
+.second  {
+  height: 100vh;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 5px solid;
+  background-color: antiquewhite;
+}
+.three  {
+   height: 100vh;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 5px solid;
+  font-size: 40px;
+  background-color: skyblue;
+
+}
+.four {
+  height: 100vh;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 5px solid;
+  font-size: 30px;
+  background-color: antiquewhite;
+}
+.five  {
+    height: 100vh;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 5px solid;
+  font-size: 20px;
+  background-color: skyblue;
+}
